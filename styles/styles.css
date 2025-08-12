@@ -1,7 +1,9 @@
 .main {
     display: flex;
     flex-direction: column;
-    border: 50px black;
+    border: 50px #000000;
+    padding-left:200px;
+    padding-right: 200px;
 
 }
 
@@ -206,9 +208,10 @@ ul {
 .signs {
     background-color: #3882F6;
     color: #F9FAF8; 
-    margin-top: 10px;
+    
     width: 100px;
     border-color: #F9FAF8; 
+    
 
 }
 
